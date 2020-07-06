@@ -1,6 +1,7 @@
 Directing customers to subscription through app behavior analysis dataset
 
 About the dataset :
+
 user -> user_id
 
 first_open -> user first time open the app
@@ -24,6 +25,7 @@ enrolled -> if user enrolled to any paid products it store as '1' else '0'
 enrolled_date -> if enrolled
 
 liked -> if user liked any feature then it store as '1' else '0'
+
 
 Objective:
 The main objective of the model is to predict which user will not subscribe to the paid membership, so that greater marketing efforts can go into trying to 'convert' them into paid users.
